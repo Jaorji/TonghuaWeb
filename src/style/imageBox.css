@@ -1,0 +1,35 @@
+.container{
+  max-width: 60%;
+  margin:auto
+}
+
+.carousel.carousel-slider{
+  max-height: 500px;
+  padding-top:3px;
+}
+.carousel {
+  text-align: center;
+}
+.card{
+  display: inline-block;
+  max-width:250px;
+  max-height:500px;
+  margin-left: 30px;
+}
+.card1{
+  max-width:250px;
+  max-height:300px;
+}
+
+.button{
+  text-align: center;
+  margin:auto;
+}
+.text{
+  text-align: center;
+  font-size: 40px;
+}
+.cardDiv{
+  position:relative;
+}
+
